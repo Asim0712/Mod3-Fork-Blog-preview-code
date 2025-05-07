@@ -22,8 +22,8 @@ challenge was to use the Html CSS file amd changing the Html with Bootstrap code
     _Uploaded code on Github
 
   [GitHub-Link] Project link and Frontend mentor link 
-  https://www.frontendmentor.io/home
-  https://github.com/Asim0712/Mod3-Fork-Blog-preview-code/tree/main/assets
+  -https://www.frontendmentor.io/home
+  -https://github.com/Asim0712/Mod3-Fork-Blog-preview-code/tree/main/assets
 
   - [What I learned](#what-i-learned)
     -Learned Bootsrap functions and features
